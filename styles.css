@@ -4,27 +4,33 @@
     padding: 10px;
     border: 10px solid orange;
     background-color: burlywood;
+    float: inline-start;
+    float: right;
     margin: 12px;
-  }
+}
   
-  .box2 {
+.box2 {
     width: 200px;
     height: 150px;
     padding: 20px;
     border: 8px solid green;
     background-color: yellowgreen;
+    float: inline-start;
+    float: right;
     margin: 10px;
-  }
+}
   
 
-  .box3 {
+.box3 {
     width: 150px;
     height: 100px;
     padding: 15px;
     border: 5px solid pink;
     background-color:bisque;
+    float: inline-start;
+    float: right;
     margin: 8px;
-  }
+}
 
 
 .container {
@@ -32,8 +38,8 @@
     font-size: xx-large;
     width: 150px;
     height: 100px;
-    margin: auto;
-    padding: auto;
+    margin: left;
+    padding: 5px;
     border: 10px;
     background-color: burlywood;
     border-radius: 50%;
