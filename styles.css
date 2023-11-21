@@ -26,5 +26,16 @@
     margin: 8px;
   }
 
-  
-  
+
+.container {
+    text-align: center;
+    font-size: xx-large;
+    width: 150px;
+    height: 100px;
+    margin: auto;
+    padding: auto;
+    border: 10px;
+    background-color: burlywood;
+    border-radius: 50%;
+    
+}
