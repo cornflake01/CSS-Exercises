@@ -1,0 +1,16 @@
+:root {
+    --container: beige;
+}
+
+.container {
+    text-align: center;
+    font-size: xx-large;
+    width: 150px;
+    height: 100px;
+    margin: auto;
+    padding: auto;
+    border: 10px;
+    background-color: yellow;
+    border-radius: 50%;
+    
+}
